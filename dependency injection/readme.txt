@@ -1,0 +1,1 @@
+Example of depedency injection usind constructor argument
